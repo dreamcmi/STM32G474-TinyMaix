@@ -13,7 +13,7 @@
 
 ## Board
 
-WeAct Studio STM32H750   
+NUCLEO-G474RE  
 <a href="assets/NUCLEO-G474RE.jpg"><img width=300 src="assets/NUCLEO-G474RE.jpg"/></a>
 
 ## Development Environment
